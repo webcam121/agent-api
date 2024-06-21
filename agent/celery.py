@@ -16,7 +16,7 @@
 #
 # tasks = {}
 #
-# slack_hook_url = 'https://hooks.slack.com/services/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'
+# slack_hook_url = ''
 #
 #
 # @signals.task_prerun.connect
